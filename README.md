@@ -201,4 +201,5 @@ Feedstock Maintainers
 
 * [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
 * [@dipterix](https://github.com/dipterix/)
+* [@gjmvanboxtel](https://github.com/gjmvanboxtel/)
 
