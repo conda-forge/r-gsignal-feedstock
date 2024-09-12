@@ -1,4 +1,4 @@
-{% set version = "0.3-6" %}
+{% set version = "0.3-7" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/gsignal_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/gsignal/gsignal_{{ version }}.tar.gz
-  sha256: b7ff005400378e17f1218b1e4010a6c7054dc1b9ec1b8a1786764a00a940968d
+  sha256: 43430b138a58237a4e416cf85069b08054c41e1cb150c37cd0ca86bec6fe13b2
 
 build:
   merge_build_host: true  # [win]
