@@ -224,6 +224,3 @@ Feedstock Maintainers
 * [@dipterix](https://github.com/dipterix/)
 * [@gjmvanboxtel](https://github.com/gjmvanboxtel/)
 
-
-<!-- dummy commit to enable rerendering -->
-
